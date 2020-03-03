@@ -5,7 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+<background bgColor="#f7f7f7"/>
 
 <h2>Images for the sample dice app</h2>
 
